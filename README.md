@@ -1,13 +1,30 @@
-## Hi there!👋 I am Pablo, Industrial engineer passionate about merging technical and real worlds.
+Hi there! 👋 I'm Pablo, an Industrial Engineer turning operations into digital solutions.
 
-# 💫 About Me:
-👷‍♂️ Industrial Engineer with hands-on experience as a Plant Supervisor.<br>💡 Focused about improving real operations through practical digitalization and automation.<br><br>🔧 I’ve developed solutions such as:<br><br>Odoo CRM integrations<br><br>Automation workflows with n8n and Power Automate<br><br>OCR applied to real operational processes<br><br>Automated inventory control systems<br><br>📊 Interested in the intersection of industrial operations, data, and technology, always aiming for real impact and continuous improvement.<br><br>🚀 Looking for dynamic projects, teamwork, commissioning phases, and environments where I can contribute both technical insight and process-oriented thinking.
+## 💫 About Me
+👷‍♂️ Hands-on Industrial Engineer & Plant Supervisor  
+💡 Passionate about improving real-world operations through automation & digitalization
 
+### 🔧 What I do:
+- [Odoo CRM Integrations](link-al-proyecto)  
+- Automation workflows with n8n & Power Automate  
+- OCR for operational processes  
+- Automated inventory control systems  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-ballestin-gracia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pabloballestin1@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pabloballestin1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pabloballestin1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloballestin1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+📊 Skills & Tools:  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?logo=microsoft-power-automate&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF3E00?logo=n8n&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-7A0C6F?logo=odoo&logoColor=white)
 
+🚀 Looking for dynamic projects, commissioning phases & teamwork where I can contribute both technical insight & process thinking.
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-ballestin-gracia)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pabloballestin1@gmail.com)
+
+## 📂 Featured Projects
+![Proyecto 1](link-a-imagen.gif)  
+**Automated Inventory System** – Streamlined warehouse operations using Power Automate & OCR.  
+
+![Proyecto 2](link-a-imagen.gif)  
+**Odoo CRM Integration** – Connected sales & operations data, reducing manual reporting by 80%.
