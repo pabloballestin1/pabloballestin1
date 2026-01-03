@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/banner-pablo.png" alt="Pablo Ballestin - Industrial Engineering & Digital Solutions Banner" width="100%" style="border-radius: 10px;">
+  <img src="banner-pablo.png" alt="Pablo Ballestin - Industrial Engineering & Digital Solutions Banner" width="100%" style="border-radius: 10px;">
 
   <br><br>
 
