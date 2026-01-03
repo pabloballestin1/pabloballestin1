@@ -20,7 +20,7 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" style="border-radius: 10px;" />
+    <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />
     <img src="https://img.shields.io/badge/n8n-FF3E00?style=for-the-badge&logo=n8n&logoColor=white" />
     <img src="https://img.shields.io/badge/Odoo-7A0C6F?style=for-the-badge&logo=odoo&logoColor=white" />
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -35,6 +35,10 @@
 </div>
 
 ---
+
+<table width="100%">
+  <tr>
+    <td bgcolor="#f8f9fa">
 
 ## 📂 Featured Projects & Systems
 
@@ -57,13 +61,17 @@
 * 🏗 **Custom CRM:** Fully integrated company CRM within Odoo environment.
 * 📊 **AI Insights:** Intelligent agent connected to Excel data to predict trends and detect inactive customers.
 
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Impact & Key Results
 
 <div align="center">
 
-| | |
+| Metric | Result |
 | :--- | :--- |
 | ⏱️ **Billing Efficiency** | ![95%](https://img.shields.io/badge/Reduction-95%25-brightgreen?style=for-the-badge) |
 | 📦 **Stock Traceability** | ![100%](https://img.shields.io/badge/Accuracy-100%25-blue?style=for-the-badge) |
