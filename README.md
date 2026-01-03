@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop" alt="Industrial Automation Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
+  <img src="assets/banner-pablo.png" alt="Pablo Ballestin - Industrial Engineering & Digital Solutions Banner" width="100%" style="border-radius: 10px;">
 
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Pablo;Industrial+Engineer;Solving+Real+Problems+Through+Digital+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Pablo;Industrial+Engineer;Solving+Real-World+Challenges+Digitally;Power+Platform+%26+Odoo+Expert" alt="Typing SVG" />
   </a>
 
   <p>
@@ -76,4 +76,3 @@
 * 📱 **Internal Apps:** Management apps built with **Power Apps**.
 * 📦 **Inventory System:** Real-time inventory tracking systems based on company data architecture.
 * **🚀 Impact:** Centralized company data, real-time management from mobile, and data-driven decision making.
-
