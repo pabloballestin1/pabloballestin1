@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="banner-pablo.png" alt="Pablo Ballestin - Industrial Engineering & Digital Solutions Banner" width="100%" style="border-radius: 10px;">
+  <img src="banner-pablo.png" alt="Pablo Ballestin Banner" width="100%" style="border-radius: 10px;">
 
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Pablo;Industrial+Engineer;Solving+Real-World+Challenges+Digitally;Power+Platform+%26+Odoo+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Pablo;Industrial+Engineer;Solving+Real+Problems;With+Digital+Tools" alt="Typing SVG" />
   </a>
 
   <p>
@@ -54,25 +54,20 @@
 > *High-performance invoice generation system tailored to client workflows.*
 
 * ⚡ **Performance:** Generates up to **800 invoices per hour**.
-* 🔄 **Automation:** Fully automated via **Power Automate** with Excel-based structured data.
-* 🧠 **Smart Logic:** Automatically fills financial statements & adapts to client billing formats.
-* ☁️ **Cloud Integration:** Automatic storage & versioning in SharePoint / OneDrive.
-* **📉 Impact:** Reduced manual billing workload, eliminated human errors, and accelerated monthly closing.
+* 🔄 **Automation:** Fully automated via **Power Automate**.
+* 🧠 **Smart Logic:** Automatically fills financial statements & adapts to billing formats.
+* **📉 Impact:** Reduced manual billing workload and eliminated human errors.
 
 ### 🤖 Odoo + AI Agent for Smart CRM
 > *Advanced CRM built on Odoo, enhanced with an AI agent for sales ops.*
 
 * 🏗 **Custom CRM:** Fully integrated custom company CRM in Odoo.
-* 📇 **OCR Tech:** Scans business cards to create/enrich contacts automatically.
-* 📧 **Smart Workflows:** Automated emails to clients & internal task notifications.
-* 🎯 **Lead Assignment:** Auto-assigns leads based on business rules.
-* 📊 **AI Agent:** Connects to Excel tracking to detect "sleeping" customers, send alerts, and predict sales trends.
+* 📇 **OCR Tech:** Scans business cards to create contacts automatically.
+* 📊 **AI Agent:** Detects "sleeping" customers and predicts sales trends from Excel.
 
 ### 🏭 End-to-End Digitalization for SMEs
 > *Complete digital transformation ecosystem.*
 
-* ☁️ **Cloud Migration:** Transition to OneDrive & SharePoint.
 * 📈 **BI Dashboards:** Custom Power BI for sales, finance & operations.
-* 📱 **Internal Apps:** Management apps built with **Power Apps**.
 * 📦 **Inventory System:** Real-time inventory tracking systems based on company data architecture.
-* **🚀 Impact:** Centralized company data, real-time management from mobile, and data-driven decision making.
+* **🚀 Impact:** Centralized company data and real-time management from mobile devices.
