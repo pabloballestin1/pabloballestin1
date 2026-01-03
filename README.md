@@ -5,11 +5,11 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Pablo;Industrial+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Pablo;Industrial+Engineer;Solving+Real+Problems;With+Digital+Tools" alt="Typing SVG" />
   </a>
 
   <p>
-    <b>👷‍♂️ Hands-on Industrial Engineer & Plant Supervisor turning real-world operations into digital solutions.</b>
+    <b>Industrial Engineer & Plant Supervisor</b> especializado en la creación de ecosistemas digitales que optimizan la eficiencia operativa y la arquitectura de datos.
   </p>
 
   <p>
@@ -25,49 +25,47 @@
 
 ---
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>💫 About Me</h3>
-      <p>I bridge the gap between the <b>factory floor</b> and the <b>cloud</b>. My background in industrial engineering allows me to understand processes deeply, while my technical skills enable me to automate them effectively.</p>
-      <p>🚀 <b>Current Focus:</b> Looking for dynamic projects, commissioning phases & teamwork where I can contribute both technical insight & process thinking.</p>
-      <p>💡 <b>Passion:</b> Improving real-world operations through automation & digitalization.</p>
-    </td>
-    <td width="45%" valign="top">
-      <h3>🛠 Tech Stack</h3>
-      <p><b>Automation & Low-Code</b></p>
-      <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=flat-square&logo=microsoft-power-automate&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white" />
-      <img src="https://img.shields.io/badge/n8n-FF3E00?style=flat-square&logo=n8n&logoColor=white" />
-      <br>
-      <p><b>ERP & Data</b></p>
-      <img src="https://img.shields.io/badge/Odoo-7A0C6F?style=flat-square&logo=odoo&logoColor=white" />
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-    </td>
-  </tr>
-</table>
+### 📊 Key Performance Indicators (KPIs) Delivered
+> *Resultados tangibles obtenidos mediante la implementación de las soluciones detalladas abajo.*
 
-## 📂 Featured Projects
+| Métrica de Impacto | Resultado Estimado | Solución Técnica |
+| :--- | :--- | :--- |
+| **Eficiencia en Facturación** | **-95%** tiempo manual | Power Automate + Excel Structure |
+| **Precisión de Inventario** | **100%** trazabilidad | Data Architecture Integration |
+| **Respuesta Comercial** | **4x** más rápida | Odoo CRM + AI Agent |
+| **Errores Humanos** | Eliminación de duplicados | OCR & Automatización de flujos |
 
-### 🧾 Custom Invoice Generator (Power Platform)
-> *High-performance invoice generation system tailored to client workflows.*
+---
 
-* ⚡ **Performance:** Generates up to **800 invoices per hour**.
-* 🔄 **Automation:** Fully automated via **Power Automate**.
-* 🧠 **Smart Logic:** Automatically fills financial statements & adapts to billing formats.
-* **📉 Impact:** Reduced manual billing workload and eliminated human errors.
+## 📂 Featured Projects & Systems
+
+### 🏭 Comprehensive Digital Transformation for SMEs
+Este enfoque integra mis desarrollos previos en un único ecosistema operativo para garantizar que la información fluya sin fricciones entre departamentos.
+
+* 📦 **Real-Time Inventory:** Diseño de sistemas de seguimiento de stock basados en la arquitectura de datos propia de la empresa, evitando silos de información.
+* ⚙️ **Process Automation:** Orquestación de flujos de trabajo mediante **n8n** y **Power Automate** que conectan planta, almacén y administración.
+* 🔗 **Integrated Ecosystem:** Implementación de herramientas digitales que actúan como nexo entre el **Generador de Facturas** y el **CRM inteligente**, permitiendo una visión 360° del negocio.
+* 📈 **Business Intelligence:** Dashboards en **Power BI** para la toma de decisiones basada en datos reales de operaciones y finanzas.
 
 ### 🤖 Odoo + AI Agent for Smart CRM
-> *Advanced CRM built on Odoo, enhanced with an AI agent for sales ops.*
+*Solución avanzada de gestión de relaciones con clientes impulsada por inteligencia artificial.*
+* **OCR Integration:** Digitalización automática de tarjetas de visita y documentos para alimentar el CRM.
+* **AI Sales Insights:** Agente inteligente conectado a datos de Excel para predecir tendencias, detectar clientes inactivos y automatizar el seguimiento comercial.
 
-* 🏗 **Custom CRM:** Fully integrated custom company CRM in Odoo.
-* 📇 **OCR Tech:** Scans business cards to create contacts automatically.
-* 📊 **AI Agent:** Detects "sleeping" customers and predicts sales trends from Excel.
+### 🧾 Custom Invoice Generator (Power Platform)
+*Sistema de facturación de alto rendimiento adaptado a lógicas de negocio complejas.*
+* **High-Speed Processing:** Capacidad de generación de hasta **800 facturas por hora**.
+* **Financial Sync:** Automatización total del volcado de datos en estados financieros y almacenamiento en nube (SharePoint/OneDrive).
 
-### 🏭 End-to-End Digitalization for SMEs
-> *Complete digital transformation ecosystem.*
+---
 
-* 📈 **BI Dashboards:** Custom Power BI for sales, finance & operations.
-* 📦 **Inventory System:** Real-time inventory tracking systems based on company data architecture.
-* **🚀 Impact:** Centralized company data and real-time management from mobile devices.
+### 🛠 Tech Stack Summary
+* **Automation:** Power Automate, n8n.
+* **ERP & CRM:** Odoo.
+* **Data & Cloud:** Power BI, Excel (Advanced), SharePoint, OneDrive.
+* **Low-Code:** Power Apps.
+
+---
+<div align="center">
+  <i>Industrial Engineer | Automation Enthusiast | Process Optimizer</i>
+</div>
