@@ -9,15 +9,24 @@
   </a>
 
   <p>
-    <b>Industrial Engineer & Plant Supervisor</b> especializado en la creación de ecosistemas digitales que optimizan la eficiencia operativa y la arquitectura de datos.
+    <b>Hands-on Industrial Engineer & Plant Supervisor turning real-world operations into digital solutions.</b>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />
+    <img src="https://img.shields.io/badge/n8n-FF3E00?style=for-the-badge&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/Odoo-7A0C6F?style=for-the-badge&logo=odoo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   </p>
 
   <p>
     <a href="https://linkedin.com/in/pablo-ballestin-gracia" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:pabloballestin1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 
@@ -25,47 +34,41 @@
 
 ---
 
-### 📊 Key Performance Indicators (KPIs) Delivered
-> *Resultados tangibles obtenidos mediante la implementación de las soluciones detalladas abajo.*
-
-| Métrica de Impacto | Resultado Estimado | Solución Técnica |
-| :--- | :--- | :--- |
-| **Eficiencia en Facturación** | **-95%** tiempo manual | Power Automate + Excel Structure |
-| **Precisión de Inventario** | **100%** trazabilidad | Data Architecture Integration |
-| **Respuesta Comercial** | **4x** más rápida | Odoo CRM + AI Agent |
-| **Errores Humanos** | Eliminación de duplicados | OCR & Automatización de flujos |
-
----
-
 ## 📂 Featured Projects & Systems
 
-### 🏭 Comprehensive Digital Transformation for SMEs
-Este enfoque integra mis desarrollos previos en un único ecosistema operativo para garantizar que la información fluya sin fricciones entre departamentos.
+### 🏭 End-to-End Digitalization for SMEs
+This framework integrates specialized developments into a single operational ecosystem, ensuring seamless data flow across departments.
 
-* 📦 **Real-Time Inventory:** Diseño de sistemas de seguimiento de stock basados en la arquitectura de datos propia de la empresa, evitando silos de información.
-* ⚙️ **Process Automation:** Orquestación de flujos de trabajo mediante **n8n** y **Power Automate** que conectan planta, almacén y administración.
-* 🔗 **Integrated Ecosystem:** Implementación de herramientas digitales que actúan como nexo entre el **Generador de Facturas** y el **CRM inteligente**, permitiendo una visión 360° del negocio.
-* 📈 **Business Intelligence:** Dashboards en **Power BI** para la toma de decisiones basada en datos reales de operaciones y finanzas.
-
-### 🤖 Odoo + AI Agent for Smart CRM
-*Solución avanzada de gestión de relaciones con clientes impulsada por inteligencia artificial.*
-* **OCR Integration:** Digitalización automática de tarjetas de visita y documentos para alimentar el CRM.
-* **AI Sales Insights:** Agente inteligente conectado a datos de Excel para predecir tendencias, detectar clientes inactivos y automatizar el seguimiento comercial.
+* 📦 **Real-Time Inventory:** Design of stock tracking systems based on the company's data architecture, eliminating information silos.
+* ⚙️ **Process Automation:** Orchestration of workflows via **n8n** and **Power Automate** to increase operational efficiency.
+* 🔗 **Integrated Ecosystem:** Implementation of digital tools acting as a nexus between all functionalities, enabling a 360° business view.
+* 📈 **Business Intelligence:** Custom **Power BI** dashboards for data-driven decision making in operations and finance.
 
 ### 🧾 Custom Invoice Generator (Power Platform)
-*Sistema de facturación de alto rendimiento adaptado a lógicas de negocio complejas.*
-* **High-Speed Processing:** Capacidad de generación de hasta **800 facturas por hora**.
-* **Financial Sync:** Automatización total del volcado de datos en estados financieros y almacenamiento en nube (SharePoint/OneDrive).
+*High-performance billing system tailored to complex business logic.*
+* ⚡ **High-Speed Processing:** Capable of generating up to **800 invoices per hour**.
+* 🔄 **Financial Sync:** Full automation of data transfer to financial statements and cloud storage (SharePoint/OneDrive).
+* 📉 **Impact:** Massive reduction in manual workload and human-error elimination.
+
+### 🤖 Odoo + AI Agent for Smart CRM
+*Advanced CRM solution enhanced by Artificial Intelligence for sales operations.*
+* 🏗 **Custom CRM:** Fully integrated company CRM within Odoo environment.
+* 📇 **OCR Tech:** Automatic digitization of business cards and documents.
+* 📊 **AI Insights:** Intelligent agent connected to Excel data to predict trends and detect inactive customers.
 
 ---
 
-### 🛠 Tech Stack Summary
-* **Automation:** Power Automate, n8n.
-* **ERP & CRM:** Odoo.
-* **Data & Cloud:** Power BI, Excel (Advanced), SharePoint, OneDrive.
-* **Low-Code:** Power Apps.
+## 📈 Impact & Results (KPIs)
+
+| Objective | Metric | Visual Progress |
+| :--- | :--- | :--- |
+| **Billing Automation** | **-95%** Manual Time | `██████████████████▒` |
+| **Inventory Accuracy** | **100%** Traceability | `████████████████████` |
+| **Sales Response Time** | **4x** Faster | `██████████████████▒` |
+| **Operational Errors** | **-90%** Error Rate | `██████████████████▒` |
 
 ---
+
 <div align="center">
-  <i>Industrial Engineer | Automation Enthusiast | Process Optimizer</i>
+  <i>Industrial Engineer | Process Optimizer | Digital Transformation Specialist</i>
 </div>
