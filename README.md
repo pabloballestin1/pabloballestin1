@@ -42,18 +42,14 @@
 
 ## 📂 Featured Projects & Systems
 
-### 🏭 End-to-End Digitalization for SMEs
-*Integrating specialized developments into a single operational ecosystem for seamless data flow.*
-
-* 📦 **Real-Time Inventory:** Design of stock tracking systems based on the company's data architecture.
-* ⚙️ **Process Automation:** Orchestration of workflows via **n8n** and **Power Automate** to increase operational efficiency.
-* 🔗 **Integrated Ecosystem:** Implementation of digital tools acting as a nexus between all functionalities, enabling a 360° business view.
 
 ### 🧾 Custom Invoice Generator (Power Platform)
 *High-performance billing system tailored to complex business logic.*
 
 * ⚡ **Performance:** Generates up to **800 invoices per hour**.
 * 🔄 **Automation:** Full data transfer to financial statements and cloud storage (SharePoint/OneDrive).
+* 🎨 **Customization** As it is based on Excel Templates, it is totally adptable and end-to-end customizable, since design to company billing particularities.
+  
 * ❓: [![Repo](https://img.shields.io/badge/Repository-Invoice_Generator-blue?style=for-the-badge&logo=github)](https://github.com/pabloballestin1/invoice_generator)
 
 ### 🤖 Odoo + AI Agent for Smart CRM
@@ -67,6 +63,16 @@
 </table>
 
 ---
+
+### 🏭 End-to-End Digitalization for SMEs
+*Integrating specialized developments into a single operational ecosystem for seamless data flow.*
+
+* 📦 **Real-Time Inventory:** Design of stock tracking systems based on the company's data architecture.
+* ⚙️ **Process Automation:** Orchestration of workflows via **n8n** and **Power Automate** to increase operational efficiency.
+* 🔗 **Integrated Ecosystem:** Implementation of digital tools acting as a nexus between all functionalities, enabling a 360° business view.
+* 🧾 **Automated Invoice Generator** Automated billing system with accountability logic, totally customizable, based on M365. (explained before)
+* 📈 **PowerBI Dashborads** Data environment for analyzing financial files created with invoice generator. AI Agent uses this data for taking decisions. 
+* 📱 **Phone App** Increasement of accesibility through the integration of automations,invoice generator, stock system, PowerBI Dashboards into an IOS & Android App based on M365 Power Apps. 
 
 ## 🚀 Impact & Key Results
 
