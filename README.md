@@ -45,11 +45,13 @@
 ### 🏗️ End-to-End Digital Ecosystem (Architecture)
 *Designing the operational backbone where specialized tools communicate seamlessly.*
 
-Before focusing on individual tools, I architect the complete ecosystem to ensure a 360° data flow.
-* **📱 Unified Mobile App:** Integration of all systems (Invoices, Stock, BI) into a custom **iOS & Android App** (Power Apps), ensuring accessibility from the warehouse to the office.
-* **⚙️ Process Orchestration:** Seamless workflows connecting independent platforms via **n8n** and **Power Automate**.
-* **🔗 The Nexus:** Creation of a central operational environment where the Invoice Generator, Stock System, and CRM feed into a unified data lake.
+### 🏗️ End-to-End Digitalization: The "System of Systems"
+*Beyond individual tools, I design the orchestration layer that allows data to flow across the entire value chain.*
 
+* **🔄 Process Synchronization:** Companies need harmony between platforms. Then, with this system, we coordinate production, stock, sales, accountability and billing into a whole environment.
+* **💎 Single Source of Truth:** We need architectures that eliminate data silos. By bridging ERP logic with Excel flexibility and AI insights, I ensure that every department works with the same real-time information.
+* **📈 Industrial Scalability:** Systems built with a "lean" mindset. They are designed to absorb increasing workloads (like the 800 inv/hr peak) without increasing administrative overhead.
+* **📱 Mobile Control (The Interface):** As a final layer of accessibility, I integrate this entire ecosystem into Sharepoint and a **custom Mobile App**. This allows real-time monitoring of stock, approvals of invoices, and CRM alerts directly from a smartphone, bringing the "office" to the warehouse floor.
 ---
 
 ### 🧾 Custom Invoice Generator (Power Platform)
