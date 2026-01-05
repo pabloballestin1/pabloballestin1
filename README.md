@@ -54,7 +54,7 @@
 
 * ⚡ **Performance:** Generates up to **800 invoices per hour**.
 * 🔄 **Automation:** Full data transfer to financial statements and cloud storage (SharePoint/OneDrive).
-* ❓ [![Repo](https://img.shields.io/badge/Repository-Invoice_Generator-blue?style=for-the-badge)](https://github.com/pabloballestin1/invoice_generator)
+* ❓: [![Repo](https://img.shields.io/badge/Repository-Invoice_Generator-blue?style=for-the-badge&logo=github)](https://github.com/pabloballestin1/invoice_generator)
 
 ### 🤖 Odoo + AI Agent for Smart CRM
 *Advanced CRM solution enhanced by Artificial Intelligence for sales operations.*
