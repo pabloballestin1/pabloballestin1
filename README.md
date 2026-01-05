@@ -73,8 +73,8 @@
 
 ---
 
-### 🤖 Odoo + AI Agent for Smart CRM
-*Advanced CRM solution enhanced by Artificial Intelligence for autonomous sales operations.*
+### 🤖 CRM + AI Agent for Smart CRM
+*Advanced CRM solution based in Odoo and enhanced by Artificial Intelligence for autonomous sales operations.*
 
 * **1. Smart Entry & Logic:**
     * **OCR Capture:** AI-powered scanning of physical business cards to auto-populate Odoo.
