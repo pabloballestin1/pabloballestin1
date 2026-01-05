@@ -45,8 +45,6 @@
 ### 🏗️ End-to-End Digital Ecosystem (Architecture)
 *Designing the operational backbone where specialized tools communicate seamlessly.*
 
-### 🏗️ End-to-End Digitalization: The "System of Systems"
-*Beyond individual tools, I design the orchestration layer that allows data to flow across the entire value chain.*
 
 * **🔄 Process Synchronization:** Companies need harmony between platforms. Then, with this system, we coordinate production, stock, sales, accountability and billing into a whole environment.
 * **💎 Single Source of Truth:** We need architectures that eliminate data silos. By bridging ERP logic with Excel flexibility and AI insights, I ensure that every department works with the same real-time information.
