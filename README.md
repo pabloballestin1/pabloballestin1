@@ -42,37 +42,54 @@
 
 ## 📂 Featured Projects & Systems
 
+### 🏗️ End-to-End Digital Ecosystem (Architecture)
+*Designing the operational backbone where specialized tools communicate seamlessly.*
+
+Before focusing on individual tools, I architect the complete ecosystem to ensure a 360° data flow.
+* **📱 Unified Mobile App:** Integration of all systems (Invoices, Stock, BI) into a custom **iOS & Android App** (Power Apps), ensuring accessibility from the warehouse to the office.
+* **⚙️ Process Orchestration:** Seamless workflows connecting independent platforms via **n8n** and **Power Automate**.
+* **🔗 The Nexus:** Creation of a central operational environment where the Invoice Generator, Stock System, and CRM feed into a unified data lake.
+
+---
 
 ### 🧾 Custom Invoice Generator (Power Platform)
 *High-performance billing system tailored to complex business logic.*
 
 * ⚡ **Performance:** Generates up to **800 invoices per hour**.
 * 🔄 **Automation:** Full data transfer to financial statements and cloud storage (SharePoint/OneDrive).
-* 🎨 **Customization** As it is based on Excel Templates, it is totally adptable and end-to-end customizable, since design to company billing particularities.
-  
-* ❓: [![Repo](https://img.shields.io/badge/Repository-Invoice_Generator-blue?style=for-the-badge&logo=github)](https://github.com/pabloballestin1/invoice_generator)
+* 🎨 **100% Customizable:** Based on Excel Templates, allowing full adaptation of design and logic to specific company billing rules.
+* 💻 **Source Code:** [![Repo](https://img.shields.io/badge/Repository-Invoice_Generator-blue?style=flat-square&logo=github)](https://github.com/pabloballestin1/invoice_generator)
+
+---
+
+### 📈 Stock Management & Predictive Analytics
+*Data architecture bridging physical inventory with financial insights.*
+
+* 📦 **Real-Time Inventory:** Custom Excel-based tracking system fully integrated into the company's data architecture.
+* 📊 **Unified Intelligence:** **Power BI** dashboards that cross-reference inventory data with accounting files (from the invoice generator) for deep financial analysis.
+* 🔮 **AI Forecasting:** Predictive models to estimate:
+    * **Production Planning:** Estimating necessary manufacturing based on demand trends.
+    * **Risk Management:** Predicting stockouts and future order volumes.
+
+---
 
 ### 🤖 Odoo + AI Agent for Smart CRM
-*Advanced CRM solution enhanced by Artificial Intelligence for sales operations.*
+*Advanced CRM solution enhanced by Artificial Intelligence for autonomous sales operations.*
 
-* 🏗 **Custom CRM:** Fully integrated company CRM within Odoo environment.
-* 📊 **AI Insights:** Intelligent agent connected to Excel data to predict trends and detect inactive customers.
+* **1. Smart Entry & Logic:**
+    * **OCR Capture:** AI-powered scanning of physical business cards to auto-populate Odoo.
+    * **Auto-Assignment:** Logic rules that distribute leads to sales reps based on criteria like country or region.
+
+* **2. The AI Sales Agent:**
+    * **🕵️‍♂️ Lead Generation:** Automated prospecting via Web Scraping and LinkedIn integration.
+    * **🧠 Predictive Restocking:** The agent analyzes Power BI sales data to predict when a client needs to reorder.
+    * **🔔 Active Alerts:** Automatically notifies sales reps of opportunities and sends personalized emails to customers to trigger sales.
 
     </td>
   </tr>
 </table>
 
 ---
-
-### 🏭 End-to-End Digitalization for SMEs
-*Integrating specialized developments into a single operational ecosystem for seamless data flow.*
-
-* 📦 **Real-Time Inventory:** Design of stock tracking systems based on the company's data architecture.
-* ⚙️ **Process Automation:** Orchestration of workflows via **n8n** and **Power Automate** to increase operational efficiency.
-* 🔗 **Integrated Ecosystem:** Implementation of digital tools acting as a nexus between all functionalities, enabling a 360° business view.
-* 🧾 **Automated Invoice Generator** Automated billing system with accountability logic, totally customizable, based on M365. (explained before)
-* 📈 **PowerBI Dashborads** Data environment for analyzing financial files created with invoice generator. AI Agent uses this data for taking decisions. 
-* 📱 **Phone App** Increasement of accesibility through the integration of automations,invoice generator, stock system, PowerBI Dashboards into an IOS & Android App based on M365 Power Apps. 
 
 ## 🚀 Impact & Key Results
 
